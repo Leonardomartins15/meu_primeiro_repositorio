@@ -1,4 +1,4 @@
-# 👨‍💻 Olá! Eu sou um estudante apaixonado por tecnologia!
+# 👨‍💻 Olá! Eu sou um estudante de tecnologia!
 
 Seja bem-vindo ao meu repositório!  
 Sou um estudante em início de jornada no mundo da programação, e criei este espaço para compartilhar meus projetos, treinar minhas habilidades e aprender cada vez mais.
