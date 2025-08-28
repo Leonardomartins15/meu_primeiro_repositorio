@@ -3,7 +3,7 @@
 Seja bem-vindo ao meu repositório!  
 Sou um estudante em início de jornada no mundo da programação, e criei este espaço para compartilhar meus projetos, treinar minhas habilidades e aprender cada vez mais.
 
-[Meu gif favorito](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqYzZpd3BibDlubnF6eDh1bTQ1eHp6OXp4YTZoZHowcW5tNXp6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/22Qtxycwr69yw/giphy.gif)
+![Meu gif favorito](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBqYzZpd3BibDlubnF6eDh1bTQ1eHp6OXp4YTZoZHowcW5tNXp6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/22Qtxycwr69yw/giphy.gif)
 
 
 ## 🚀 Sobre mim
